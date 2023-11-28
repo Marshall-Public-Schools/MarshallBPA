@@ -3,13 +3,6 @@
     <header role="banner">
       <input id="nav-check" type="checkbox" />
       <label class="fa" for="nav-check"></label>
-      <nav role="navigation">
-        <ul class="nav">
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About Us</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-      </nav>
     </header>
     <h1>Business Professionals of America</h1>
     </div>
