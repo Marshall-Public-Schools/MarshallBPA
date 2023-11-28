@@ -50,6 +50,9 @@
         </div>
     </div>
   </section>
+  <section>
+      <h2>Contact<h2>
+        <p>If you wish to join BPA please contact Ms. Kellen at Brenda.Kellen@marshall.k12.mn.us</p>
   <footer>
     <div class="row">
       <ul class="soc-media">
