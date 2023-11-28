@@ -49,32 +49,6 @@
         <div class="col-3">
           <img src="https://th.bing.com/th/id/OIP.ONWhIG-W1uN0w0Wce01vHgHaHZ?rs=1&pid=ImgDetMain" alt="" />
         </div>
-        <div class="col-3">
-          <img src="http://www.t-nation.com/system/publishing/article_assets/274/original/Jason-Jump.jpg" alt="" />
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-3">
-          <img src="http://cdn2.therxreview.com/wp-content/uploads/2013/03/Joshua-Page-4.jpg" alt="" />
-        </div>
-        <div class="col-3">
-          <img src="http://maxshifman.com/wp-content/uploads/2013/11/10770242923_fa8eab2c80_o2.jpg" alt="" />
-        </div>
-        <div class="col-3">
-          <img src="http://crossfitrough.com/wp-content/blogs.dir/134/files/2014/06/20110814_valley_crossfit_1041_noise_bullet_bamf.jpg" alt="" />
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-3">
-          <img src="https://3.bp.blogspot.com/-4FRiCbaZH6c/T1u0ckIlPkI/AAAAAAAAAJA/qUE15aneQIc/s1600/crossfit-3.jpg" alt="" />
-        </div>
-        <div class="col-3">
-          <img src="http://www.crossfitfuengirola.com/web2013/wp-content/uploads/crossfit-fuengirola-slide03.jpg" alt="" />
-        </div>
-        <div class="col-3">
-          <img src="http://crossfithi.files.wordpress.com/2013/03/crossfit-games-foucher.jpeg" alt="" />
-        </div>
-      </div>
       <div class="row">
         <button type="button" value="View All Photos" role="button">View All Photos</button>
       </div>
