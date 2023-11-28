@@ -27,7 +27,7 @@
       <div class="row">
         <article class="col-2">
           <h1>Welcome!</h1>
-          <p>We are known for providing great encouragement and support to all members. Our leaders, Ms. Kellen and Ms. Timmerman, are dedicated to bettering each and every member to reach their goals. In the year 2022 to 2023, BPA students set a new record in achieving seven first-place recognitions. However, that is only the beginning. Join us in continuing to break our records and preparing for your future.</p>
+          <p>We are known for providing great encouragement and support to all members. Our advisors, Ms. Kellen and Ms. Timmerman, are dedicated to bettering each and every member to reach their goals. In the year 2022 to 2023, BPA students set a new record in achieving seven first-place recognitions. However, that is only the beginning. Join us in continuing to break our records and preparing for your future.</p>
           <p>We are an organization for every student!  We are NOT a super competitive activity that will constrain your time. We are known for a very friendly, cooperative vibe where everyone is cool and supportive.</p>
         </article>
         <article class="col-2">
@@ -47,7 +47,7 @@
           <img src="https://ogden_images.s3.amazonaws.com/www.marshallindependent.com/images/2023/03/13201911/bpa-copy-copyweb-881x840.jpg" alt="" />
         </div>
         <div class="col-3">
-          <img src="http://www.t-nation.com/system/publishing/articles/10000419/original/Crossfit.jpg?1407345303" alt="" />
+          <img src="https://th.bing.com/th/id/OIP.ONWhIG-W1uN0w0Wce01vHgHaHZ?rs=1&pid=ImgDetMain" alt="" />
         </div>
         <div class="col-3">
           <img src="http://www.t-nation.com/system/publishing/article_assets/274/original/Jason-Jump.jpg" alt="" />
