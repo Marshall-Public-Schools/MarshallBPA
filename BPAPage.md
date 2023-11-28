@@ -44,7 +44,7 @@
       </div>
       <div class="row">
         <div class="col-3">
-          <img src="[http://i.cbc.ca/1.2609253.1404403066!/httpImage/image.jpg_gen/derivatives/16x9_620/image.jpg"](https://ogden_images.s3.amazonaws.com/www.marshallindependent.com/images/2023/03/13201911/bpa-copy-copyweb-881x840.jpg) alt="" />
+          <img src="https://ogden_images.s3.amazonaws.com/www.marshallindependent.com/images/2023/03/13201911/bpa-copy-copyweb-881x840.jpg" alt="" />
         </div>
         <div class="col-3">
           <img src="http://www.t-nation.com/system/publishing/articles/10000419/original/Crossfit.jpg?1407345303" alt="" />
