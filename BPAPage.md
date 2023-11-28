@@ -49,9 +49,6 @@
         <div class="col-3">
           <img src="https://th.bing.com/th/id/OIP.ONWhIG-W1uN0w0Wce01vHgHaHZ?rs=1&pid=ImgDetMain" alt="" />
         </div>
-      <div class="row">
-        <button type="button" value="View All Photos" role="button">View All Photos</button>
-      </div>
     </div>
   </section>
   <footer>
