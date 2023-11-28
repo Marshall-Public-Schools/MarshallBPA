@@ -12,14 +12,14 @@
         </ul>
       </nav>
     </header>
-    <h1>CrossFit Masters</h1>
+    <h1>Business Professionals of America</h1>
     </div>
   </section>
   <section class="sec-about">
     <div class="row-red">
       <div class="row">
-        <h1>Only those who risk going too far <br /> can possibly know how far one can go</h1>
-        <p>We are an OFFICIAL CrossFit team and also training center. We started in 2008 and since then welcome new memebers a people interested in CrossFit we were one of the very first to introduce and teach CrossFit and in Los Angeles.  No one is btter and has more experience than us PERIOD.</p>
+        <h1>Today's Students. <br /> Tomorrow's Business Professionals.</h1>
+        <p>We are the Business Professionals of America Chapter in Marshall. We started in 2008 and since then welcomed new generations of students planning on entering into various work fields.</p>
         <button type="button" value="Read More" role="button">Read More</button>
       </div>
     </div>
@@ -27,8 +27,8 @@
       <div class="row">
         <article class="col-2">
           <h1>Welcome!</h1>
-          <p>We are known for providing the very best coaching possible in our classes.  All of our Coaches go through an in-house Coach Training Program along with continuous education by learning and obtaining the latest certifications. Safety and proper form is our #1 priority in our classes.</p>
-          <p>We are a CrossFit gym for normal folks!  We are NOT a super competitive ego driven CrossFit gym. We are known for a very friendly, family vibe where everyone is cool and supportive.  If you don’t see a warm smiling face when you first walk in, we did something wrong!</p>
+          <p>We are known for providing great encouragement and support to all members. Our leaders, Ms. Kellen and Ms. Timmerman, are dedicated to bettering each and every member to reach their goals. In the year 2022 to 2023, BPA students set a new record in achieving seven first-place recognitions. However, that is only the beginning. Join us in continuing to break our records and preparing for your future.</p>
+          <p>We are an organization for every student!  We are NOT a super competitive activity that will constrain your time. We are known for a very friendly, cooperative vibe where everyone is cool and supportive.</p>
         </article>
         <article class="col-2">
           <h1>What is Crossfit?</h1>
