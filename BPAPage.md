@@ -46,17 +46,4 @@
   <section>
       <h2>Contact<h2>
         <p>If you wish to join BPA please contact Ms. Kellen at Brenda.Kellen@marshall.k12.mn.us</p>
-  <footer>
-    <div class="row">
-      <ul class="soc-media">
-        <li><a href="#" class="fa fa-twitter"></a></li>
-        <li><a href="#" class="fa fa-facebook"></a></li>
-        <li><a href="#" class="fa fa-pinterest"></a></li>
-        <li><a href="#" class="fa fa-envelope"></a></li>
-      </ul>
-    </div>
-    <div class="row">
-      <p>&copy; 2014 Alex Devero Design</p>
-    </div>
-  </footer>
 </div>
