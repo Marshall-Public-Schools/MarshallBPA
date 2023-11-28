@@ -31,55 +31,10 @@
           <p>We are an organization for every student!  We are NOT a super competitive activity that will constrain your time. We are known for a very friendly, cooperative vibe where everyone is cool and supportive.</p>
         </article>
         <article class="col-2">
-          <h1>What is Crossfit?</h1>
-          <p>CrossFit is a strength and conditioning program with the aim of improving, among other things, cardiovascular/respiratory endurance, stamina, strength, power, speed, coordination, agility, balance, and accuracy. It advocates a perpetually varied mix of aerobic exercise, gymnastics (body weight exercises), and Olympic weight lifting.</p>
-          <p>CrossFit Inc. describes its strength and conditioning program as “constantly varied functional movements executed at high intensity across broad modal and time domains," with the stated goal of improving fitness, which it defines as "work capacity across broad time and modal domains."</p>
+          <h1>What is BPA?</h1>
+          <p>BPA is an organization dedicated towards bettering and preparing students to enter into the work force. It is a community of people inspired to succeed and help each other to succeed.</p>
         </article>
       </div>
-    </div>
-  </section>
-  <section class="sec-news">
-    <div class="row">
-      <h1>Latest News</h1>
-    </div>
-    <div class="row">
-      <div class="col-2">
-        <article class="post">
-          <span>21 <br />JAN</span>
-          <img src="http://games.crossfit.com/sites/default/files/Games2012_AS_Midday1_rotator.jpg" alt="CrossFit Games of Asia" />
-          <h1>CrossFit Games of Asia</h1>
-          <p></p>
-        </article>
-      </div>
-      <div class="col-2">
-        <article class="post">
-          <span>05 <br />FEB</span>
-          <img src="http://crossfit-games.edgesuite.net/sites/default/files/Games2013_NorCal_endday3_rotator_0.jpg" alt="CrossFit Games Nor.Cal" />
-          <h1>CrossFit Games Nor.Cal</h1>
-          <p></p>
-        </article>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-2">
-        <article class="post">
-          <span>18 <br />FEB</span>
-          <img src="http://image.boxrox.com/2014/02/bar-barians-workshop-p360-16-640x387.jpg" alt="CrossFit Aberdeen" />
-          <h1>CrossFit Aberdeen</h1>
-          <p></p>
-        </article>
-      </div>
-      <div class="col-2">
-        <article class="post">
-          <span>11 <br />MAR</span>
-          <img src="https://throwdown.com.au/wp-content/uploads/2013/04/Photograph_02_Throwdown_Event_Management.jpg" alt="CrossFit Throwdown" />
-          <h1>CrossFit Throwdown</h1>
-          <p></p>
-        </article>
-      </div>
-    </div>
-    <div class="row">
-      <button type="button" value="View All News" role="button">View All News</button>
     </div>
   </section>
   <section class="sec-gallery">
@@ -89,7 +44,7 @@
       </div>
       <div class="row">
         <div class="col-3">
-          <img src="http://i.cbc.ca/1.2609253.1404403066!/httpImage/image.jpg_gen/derivatives/16x9_620/image.jpg" alt="" />
+          <img src="[http://i.cbc.ca/1.2609253.1404403066!/httpImage/image.jpg_gen/derivatives/16x9_620/image.jpg"](https://ogden_images.s3.amazonaws.com/www.marshallindependent.com/images/2023/03/13201911/bpa-copy-copyweb-881x840.jpg) alt="" />
         </div>
         <div class="col-3">
           <img src="http://www.t-nation.com/system/publishing/articles/10000419/original/Crossfit.jpg?1407345303" alt="" />
