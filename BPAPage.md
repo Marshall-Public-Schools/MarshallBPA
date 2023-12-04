@@ -12,7 +12,6 @@
       <div class="row">
         <h1>Today's Students. <br /> Tomorrow's Business Professionals.</h1>
         <p>We are the Business Professionals of America Chapter in Marshall. We started in 2008 and since then welcomed new generations of students planning on entering into various work fields.</p>
-        <button type="button" value="Read More" role="button">Read More</button>
       </div>
     </div>
     <div class="row-grey">
