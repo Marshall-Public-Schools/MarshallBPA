@@ -1,6 +1,6 @@
 <div class="wrapper">
    <style>
-       body {
+      h1, h2, p {
     background-color: lightblue;
   }
    </style>
