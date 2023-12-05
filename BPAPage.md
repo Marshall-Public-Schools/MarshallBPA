@@ -1,6 +1,6 @@
 <div class="wrapper">
    body {
-    background-color: lightblue;
+    background-color: black;
   }
   <section class="sec-intro">
     <header role="banner">
