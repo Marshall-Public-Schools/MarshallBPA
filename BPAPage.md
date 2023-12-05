@@ -4,6 +4,8 @@
     background-color: lightblue;
   }
    </style>
+   <img src: "https://github.com/Marshall-Public-Schools/MarshallBPA/assets/152329959/12dc9172-078a-4c25-9b1e-7398edfc03b1" alt="" />
+
    <div class="wrapper">
   <section class="sec-intro">
     <header role="banner">
