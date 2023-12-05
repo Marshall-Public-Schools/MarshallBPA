@@ -1,7 +1,10 @@
 <div class="wrapper">
-   body {
-    background-color: black;
+   <style>
+       body {
+    background-color: lightblue;
   }
+   </style>
+   
   <section class="sec-intro">
     <header role="banner">
       <input id="nav-check" type="checkbox" />
