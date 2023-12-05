@@ -1,4 +1,7 @@
 <div class="wrapper">
+   body {
+    background-color: lightblue;
+  }
   <section class="sec-intro">
     <header role="banner">
       <input id="nav-check" type="checkbox" />
