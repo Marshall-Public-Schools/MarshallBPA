@@ -1,10 +1,10 @@
-<div class="wrapper">
+<!DOCTYPE html>
    <style>
       h1, h2, p {
     background-color: lightblue;
   }
    </style>
-   
+   <div class="wrapper">
   <section class="sec-intro">
     <header role="banner">
       <input id="nav-check" type="checkbox" />
