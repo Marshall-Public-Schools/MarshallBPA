@@ -1,1 +1,7 @@
-h1 {color: red,}
+<!DOCTYPE html?
+<html>
+<head>
+  <style>
+    p{ color: red;}
+  </style>
+</html>
