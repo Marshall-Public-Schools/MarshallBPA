@@ -2,6 +2,6 @@
 <html>
 <head>
   <style>
-    p{ color: red;}
+    h1 { color: red;}
   </style>
 </html>
