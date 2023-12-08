@@ -1,5 +1,5 @@
 body{
-background-color: rgb(0, 59, 92);
+background-color: rgb(214, 209 202);
 }
 
 h1{
@@ -9,7 +9,7 @@ font: Josefin Sans Bold;
 }
 
 p{
-color: rgb(214, 209 202);
+background-color: rgb(0, 59, 92);
 font: Neutraface Text Book;
 font-size: 20px;
 }
