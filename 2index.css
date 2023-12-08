@@ -5,11 +5,11 @@ background-color: rgb(0, 59, 92);
 h1{
 color: rgb(200, 16, 46);
 text-align: center;
-font-family: Josefin Sans Bold;
+font: Josefin Sans Bold;
 }
 
 p{
 color: rgb(214, 209 202);
-font-family: Neutraface Text Book;
+font: Neutraface Text Book;
 font-size: 20px;
 }
