@@ -9,7 +9,8 @@ font: Josefin Sans Bold;
 }
 
 p{
-background-color: rgb(0, 59, 92);
+color: rgb(0, 59, 92);
+background-color: rgb(169, 196, 227);
 font: Neutraface Text Book;
 font-size: 20px;
 }
