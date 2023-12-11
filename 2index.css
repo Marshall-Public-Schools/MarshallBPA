@@ -1,9 +1,9 @@
 body{
-background-color: rgb(214, 209 202);
+background-color: rgb(214, 209, 202);
 }
 
 .Name {
-  color: rgb(0, 0, 0);
+  font-color: rgb(0, 0, 0);
   font-size: 56px;
 }
 
@@ -11,6 +11,17 @@ background-color: rgb(214, 209 202);
   border: 5px outset black;
   background-color: rgb(169, 196, 227);
   text-align: center;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
 }
 
 h1{
