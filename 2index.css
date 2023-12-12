@@ -23,12 +23,12 @@
 }
 
 .logosection {
+  float: right;
   border-style: dotted;
   border-width: 2px;
   text-align: left;
   font-size: 12px;
   height:300px;
-  float: right;
 }
 
 div.gallery {
