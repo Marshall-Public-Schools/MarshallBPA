@@ -12,10 +12,13 @@
   background-color: rgb(198, 170, 118);
   text-align: center;
   font-style: italic;
-  color: white;
   font-size: 25px;
   height: 200px;
   float: left;
+}
+
+.Purpose h1 {
+  color: white;
 }
 
 div.gallery {
