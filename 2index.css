@@ -8,6 +8,7 @@
 
 .Purpose {
   border-style: solid;
+  border-radius: 15px;
   border-width: 5px;
   border-radius: 2px;
   background-color: rgb(198, 170, 118);
