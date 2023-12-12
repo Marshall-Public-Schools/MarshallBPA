@@ -33,6 +33,7 @@
   font-size: 12px;
   height:300px;
   overflow: auto;
+  background-image: linear-gradient(to bottom, red , yellow) !important;
 }
 
 div.gallery {
