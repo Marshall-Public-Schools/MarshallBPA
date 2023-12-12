@@ -15,7 +15,7 @@
   font-style: italic;
   font-size: 25px;
   height: 100px;
-  float: middle;
+  padding: 10px;
 }
 
 .Purpose h1 {
@@ -24,6 +24,7 @@
 
 .logosection {
   float: right;
+  padding: 5px;
   border-style: dotted;
   border-width: 2px;
   text-align: left;
