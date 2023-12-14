@@ -30,7 +30,7 @@
   width: 500px;
 }
 .logosection {
-  float: right;
+  float: right !important;
   padding: 5px;
   border-style: dotted;
   border-width: 2px;
