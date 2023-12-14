@@ -24,9 +24,12 @@
   color: white;
 }
 
-.logo {
-  float: left;
-  height: 300px;
+.left {
+  float: left !important;
+}
+
+.right {
+  float: right !important;
 }
 
 
