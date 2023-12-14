@@ -39,14 +39,26 @@ div.right p {
 }
 
 
-div.gallery {
+div.lgallery {
   margin: 5px;
   border: 1px solid #ccc;
   width: auto;
 }
-div.gallery img {
+div.lgallery img {
   width: 100%;
   height: auto;
+  float: left !important;
+}
+
+div.rgallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  width: auto;
+}
+div.rgallery img {
+  width: 100%;
+  height: auto;
+  float: right !important;
 }
 
 h1{
