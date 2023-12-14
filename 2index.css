@@ -1,12 +1,12 @@
 
-.Name {
+div.Name {
   font-color: rgb(360, 360, 360);
   font-size: 56px;
   font-weight: bold;
   color: rgb(171, 44, 41);
 }
 
-.Purpose {
+div.Purpose {
   border-style: solid;
   border-radius: 25%;
   border-width: 5px;
@@ -20,21 +20,21 @@
   margin: auto;
 }
 
-.Purpose h1 {
+div.Purpose h1 {
   color: white;
 }
 
-.left {
+div.left {
   float: left !important;
 }
-.left p {
+div.left p {
   border: dotted;
 }
 
-.right {
+div.right {
   float: right !important;
 }
-.right p {
+div.right p {
   border: dotted;
 }
 
@@ -42,7 +42,6 @@
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
-  float: left;
   width: 180px;
 }
 div.gallery img {
