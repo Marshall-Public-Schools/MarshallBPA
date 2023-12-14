@@ -24,6 +24,11 @@
   color: white;
 }
 
+.logo {
+  float: left;
+  height: 300px;
+  width: 500px;
+}
 .logosection {
   float: right;
   padding: 5px;
