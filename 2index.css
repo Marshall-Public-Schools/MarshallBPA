@@ -42,7 +42,7 @@ div.right p {
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
-  width: 180px;
+  width: auto;
 }
 div.gallery img {
   width: 100%;
