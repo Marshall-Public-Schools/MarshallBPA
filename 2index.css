@@ -27,9 +27,15 @@
 .left {
   float: left !important;
 }
+.left p {
+  border: dotted;
+}
 
 .right {
   float: right !important;
+}
+.right p {
+  border: dotted;
 }
 
 
