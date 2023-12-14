@@ -27,18 +27,8 @@
 .logo {
   float: left;
   height: 300px;
-  width: 500px;
 }
-.logosection {
-  float: right !important;
-  padding: 5px;
-  border-style: dotted;
-  border-width: 2px;
-  text-align: left;
-  font-size: 12px;
-  height:300px;
-  overflow: auto;
-}
+
 
 div.gallery {
   margin: 5px;
