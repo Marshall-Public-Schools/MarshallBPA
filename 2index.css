@@ -26,6 +26,7 @@ div.Purpose h1 {
 
 div.left {
   float: left !important;
+  width: 300px;
 }
 div.left p {
   border: dotted;
@@ -33,6 +34,7 @@ div.left p {
 
 div.right {
   float: right !important;
+  width: 300px;
 }
 div.right p {
   border: dotted;
