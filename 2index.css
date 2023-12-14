@@ -42,7 +42,7 @@ div.right p {
 div.lgallery {
   margin: 5px;
   border: 1px solid #ccc;
-  width: auto;
+  width: 200px;
 }
 div.lgallery img {
   width: 100%;
@@ -53,7 +53,7 @@ div.lgallery img {
 div.rgallery {
   margin: 5px;
   border: 1px solid #ccc;
-  width: auto;
+  width: 200px;
 }
 div.rgallery img {
   width: 100%;
