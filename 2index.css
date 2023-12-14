@@ -38,7 +38,6 @@
   font-size: 12px;
   height:300px;
   overflow: auto;
-  background-image: linear-gradient(to bottom, red , yellow) !important;
 }
 
 div.gallery {
@@ -59,7 +58,6 @@ font: Arial Bold;
 
 p{
 color: rgb(0, 59, 92);
-background-color: rgb(169, 196, 227);
 font: Arial Regular;
 font-size: 20px;
 }
