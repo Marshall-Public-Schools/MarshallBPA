@@ -71,6 +71,9 @@ div.rgallery img {
   height: auto;
   float: right !important;
 }
+table {
+  border: 1px solid;
+}
 
 h1{
 text-align: center;
