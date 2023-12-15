@@ -38,7 +38,13 @@ div.right {
 div.right p {
   border: dotted;
   width: 650px;
+  font-size: 12px;
 }
+div.right h1 {
+  width: 650px;
+  font-size: 24px;
+}
+  
 
 
 div.lgallery {
