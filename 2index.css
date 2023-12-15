@@ -28,8 +28,9 @@ div.left {
   float: left !important;
 }
 div.left p {
-  border: dotted;
+  border: solid;
   width: 650px;
+  font-size: 25px;
 }
 
 div.right {
