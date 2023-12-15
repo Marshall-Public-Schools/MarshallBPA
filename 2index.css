@@ -38,6 +38,7 @@ div.right {
 div.right p {
   border: dotted;
   width: 640px;
+  height: 500px;
 }
 div.right h1 {
   width: 640px;
