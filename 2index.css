@@ -74,6 +74,7 @@ div.rgallery img {
 table {
   border: 1px solid;
   border-collapse: collapse;
+  width: 800px;
 }
 
 h1{
