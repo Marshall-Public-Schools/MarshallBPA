@@ -45,7 +45,9 @@ div.right h1 {
   width: 640px;
   font-size: 60px;
 }
-  
+div.right img {
+  width: 700px;
+}
 
 
 div.lgallery {
