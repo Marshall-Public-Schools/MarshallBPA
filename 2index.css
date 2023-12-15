@@ -29,15 +29,15 @@ div.left {
 }
 div.left p {
   border: dotted;
-  width: 750px;
+  width: 650px;
 }
 
 div.right {
   float: right !important;
-  width: 750px;
 }
 div.right p {
   border: dotted;
+  width: 650px;
 }
 
 
