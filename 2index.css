@@ -26,10 +26,10 @@ div.Purpose h1 {
 
 div.left {
   float: left !important;
-  width: 750px;
 }
 div.left p {
   border: dotted;
+  width: 750px;
 }
 
 div.right {
