@@ -27,11 +27,27 @@ div.Purpose h1 {
 div.left {
   float: left !important;
 }
+div.left p{
+  border: dotted;
+  width: 640px;
+  font-size: 35px;
+}
 
 div.right {
   float: right !important;
 }
-
+div.right p {
+  border: dotted;
+  width: 640px;
+  font-size: 35px;
+}
+div.right h1 {
+  width: 640px;
+  font-size: 60px;
+}
+div.right img {
+  width: 700px;
+}
 
 div.lgallery {
   margin: 5px;
