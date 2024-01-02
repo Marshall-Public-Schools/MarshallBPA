@@ -27,6 +27,7 @@ div.Purpose h1 {
 div.left {
   float: left !important;
 }
+
 div.left p {
   border: solid;
   width: 650px;
