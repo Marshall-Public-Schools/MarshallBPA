@@ -49,6 +49,16 @@ div.right img {
   width: 700px;
 }
 
+div.rights {
+  float: right !important;
+}
+div.rights p {
+  border: dotted;
+  width: 640px;
+  height: 640px;
+  font-size: 35px;
+}
+
 div.lgallery {
   margin: 5px;
   border: 1px solid #ccc;
