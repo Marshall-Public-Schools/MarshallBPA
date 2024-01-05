@@ -30,6 +30,7 @@ div.left {
 div.left p{
   border: dotted;
   width: 640px;
+  height: 420px;
   font-size: 35px;
 }
 
