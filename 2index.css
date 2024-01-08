@@ -87,11 +87,13 @@ table {
 }
 
 div.Kellen h2 {
+  float: left !important;
   text-align: center;
   font: Arial Bold;
 }
 
 div.Kellen p {
+  float:- left !important;
   border-style: double;
 }
 
