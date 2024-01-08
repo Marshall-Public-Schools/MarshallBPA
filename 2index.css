@@ -29,7 +29,7 @@ div.left {
 }
 div.left p{
   border: dotted;
-  width: 650px;
+  width: 670px;
   height: 420px;
   font-size: 35px;
 }
@@ -55,7 +55,7 @@ div.rights {
 }
 div.rights p {
   border: dotted;
-  width: 650px;
+  width: 670px;
   height: 420px;
   font-size: 35px;
 }
@@ -86,15 +86,10 @@ table {
   border-collapse: collapse;
 }
 
-div.Kellen h2 {
-  float: left !important;
-  text-align: center;
-  font: Arial Bold;
-}
-
-div.Kellen p {
+div.Kellen {
   float:- left !important;
   border-style: double;
+  font: Arial Bold;
 }
 
 h1{
