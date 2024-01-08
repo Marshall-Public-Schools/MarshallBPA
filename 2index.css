@@ -87,7 +87,7 @@ table {
 }
 
 div.Kellen {
-  float:- left !important;
+  float: right !important;
   border-style: double;
   font: Arial Bold;
   font-size: 35px;
