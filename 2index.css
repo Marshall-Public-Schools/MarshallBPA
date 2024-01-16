@@ -92,6 +92,10 @@ div.Kellen {
   font: Arial Bold;
   font-size: 40px;
 }
+div.last {
+  float: left !important;
+  padding: 10px;
+}
 
 h1{
 text-align: center;
