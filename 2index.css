@@ -91,6 +91,8 @@ table {
 div.righty {
   float: right !important;
   padding-top: 175px;
+  width: 100%;
+  min-width:100px;
 }
 div.righty p {
   border: dotted;
