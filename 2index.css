@@ -16,6 +16,8 @@ div.Purpose {
   font-style: italic;
   font-size: 25px;
   height: 100px;
+  width: 100%;
+  min-width:1000px;
   padding: 10px;
   margin: auto;
 }
