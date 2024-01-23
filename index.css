@@ -166,4 +166,10 @@ p{
     float: none !important;
     padding: 10px;
   }
+  div.Name {
+  font-color: rgb(360, 360, 360);
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(171, 44, 41);
+}
 }
