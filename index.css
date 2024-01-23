@@ -178,8 +178,10 @@ p{
   border-width: 5px;
   border-radius: 2px;
   background-color: rgb(198, 170, 118);
-  text-align: center;
   font-style: italic;
   font-size: 10px;
+  height: 50px;
+  padding: 10px;
+  margin: auto;
   }
 }
