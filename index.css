@@ -172,16 +172,4 @@ p{
   font-weight: bold;
   color: rgb(171, 44, 41);
   }
-  div.Purpose {
-  border-style: solid;
-  border-radius: 25%;
-  border-width: 5px;
-  border-radius: 2px;
-  background-color: rgb(198, 170, 118);
-  font-style: italic;
-  font-size: 10px;
-  height: 50px;
-  padding: 10px;
-  margin: auto;
-  }
 }
