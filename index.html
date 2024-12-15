@@ -3,99 +3,169 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title></title>
+  <title>Business Professionals of America</title>
   <link href="index.css" rel="stylesheet" />
   <style>
-    @media only screen and (max-width: 600px) {
-      .left,
-      .right,
-      .rights,
-      .Kellen,
-      .last {
-        text-align: center;
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    h1, h2, p {
+      margin: 0 0 20px;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 20px;
+    }
+
+    .hero h1 {
+      font-size: 2.5rem;
+    }
+
+    .hero h2 {
+      font-size: 1.5rem;
+      font-weight: 400;
+      color: #555;
+    }
+
+    .image-wrapper {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      margin: 20px 0;
+    }
+
+    .image-wrapper img {
+      max-width: 100%;
+      height: auto;
+      border: 2px solid #ddd;
+      border-radius: 10px;
+    }
+
+    .content {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .content p {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .contact {
+      background: #f4f4f4;
+      padding: 20px;
+      border-radius: 10px;
+      margin: 20px 0;
+      text-align: center;
+    }
+
+    table {
+      width: 100%;
+      margin: 20px 0;
+    }
+
+    table img {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+    }
+
+    @media only screen and (max-width: 768px) {
+      .hero h1 {
+        font-size: 2rem;
       }
-      
-      img {
-        max-width: 100%;
-        height: auto;
+
+      .hero h2 {
+        font-size: 1.2rem;
+      }
+
+      table {
+        display: block;
+      }
+
+      table img {
+        margin-bottom: 20px;
       }
     }
   </style>
 </head>
 <body>
-  <div class="Name">
-    <b>
+  <div class="container">
+    <!-- Header Section -->
+    <div class="hero">
       <h1>Business Professionals of America</h1>
-    </b>
-  </div>
-  <div class="Purpose">
-    <h1>Today's Students. Tomorrow's Business Professionals.</h1>
-  </div>
-  <br>
-  <div class="left">
-    <a target="_blank" href="BPA chapter_MN-1_Mar-01.png">
-      <img src="BPAImages/BPA chapter_MN-1_MAR-01.png" alt="_" width="800" height="400">
-    </a>
-  </div>
-  <div class="right">
-    <h1>Welcome!</h1>
-  </div>
-  <div class="right">
-    <p>We are the Business Professionals of America Chapter in Marshall. We started in 2008 and since then welcomed new generations of students planning on entering into various work fields.</p>
-  </div>
-  <br>
-  <div class="left">
-    <p>We are known for providing great encouragement and support to all members. Our advisors, Ms. Kellen and Ms. Timmerman, are dedicated to bettering each and every member to reach their goals. In the year 2022 to 2023, BPA students set a new record in achieving seven first-place recognitions. However, that is only the beginning. Join us in continuing to break our records and preparing for the future.</p>
-  </div>
-  <div class="right">
-    <a target="_blank" href="IMG_3905.jpg">
-      <img src="BPAImages/IMG_3905.jpg" alt="_" width="750" height="420">
-    </a>
-  </div>
-  <br>
-  <div class="rights">
-    <p>We are an organization for every student! We are NOT a super competitive activity that will constrain your time. We are known for having a very friendly, cooperative vibe and a supportive environment.
-      <br>
-      <br>
-      BPA is an organization dedicated towards bettering and preparing students to enter into the workforce. It is a community of people inspired to succeed and to help each other to succeed.</p>
-  </div>
-  <div class="left">
-    <a target="_blank" href="20230311_015029133.png">
-      <img src="BPAImages/20230311_015029133.png" alt="_" width="700" height="410">
-    </a>
-  </div>
-  <br>
-  <div class="left">
+      <h2>Today's Students. Tomorrow's Business Professionals.</h2>
+    </div>
+
+    <!-- Welcome Section -->
+    <div class="content">
+      <h1>Welcome!</h1>
+      <p>We are the Business Professionals of America Chapter in Marshall. Since 2008, we have welcomed new generations of students planning to enter various work fields. Join us to excel and achieve your goals!</p>
+    </div>
+
+    <!-- Image Section -->
+    <div class="image-wrapper">
+      <a target="_blank" href="BPA chapter_MN-1_Mar-01.png">
+        <img src="BPAImages/BPA chapter_MN-1_MAR-01.png" alt="BPA Chapter">
+      </a>
+      <a target="_blank" href="IMG_3905.jpg">
+        <img src="BPAImages/IMG_3905.jpg" alt="BPA Members">
+      </a>
+    </div>
+
+    <!-- Achievements Section -->
+    <div class="content">
+      <p>In the 2022-2023 year, our BPA students achieved a record-breaking seven first-place recognitions! This is only the beginning. Join us in making history and preparing for the future.</p>
+    </div>
+
+    <!-- Additional Images Section -->
+    <div class="image-wrapper">
+      <a target="_blank" href="20230311_015029133.png">
+        <img src="BPAImages/20230311_015029133.png" alt="BPA Achievement">
+      </a>
+      <a target="_blank" href="20230311_140100144.png">
+        <img src="BPAImages/20230311_140100144.png" alt="BPA Group">
+      </a>
+    </div>
+
+    <!-- Supportive Environment Section -->
+    <div class="content">
+      <p>BPA is an organization for every student. We are known for our friendly, cooperative vibe and supportive environment. Join us to build your skills and thrive in the workforce.</p>
+    </div>
+
+    <!-- Table of Images -->
     <table>
       <tr>
         <td>
           <a target="_blank" href="IMG_3894.jpg">
-            <img src="BPAImages/IMG_3894.jpg" alt="_" width="485" height="700">
-          </a>
-        </td>
-        <td>
-          <a target="_blank" href="20230311_140100144.png">
-            <img src="BPAImages/20230311_140100144.png" alt="_" width="485" height="700">
+            <img src="BPAImages/IMG_3894.jpg" alt="BPA Event">
           </a>
         </td>
         <td>
           <a target="_blank" href="IMG_3902.jpg">
-            <img src="BPAImages/IMG_3902.jpg" alt="_" width="485" height="700">
+            <img src="BPAImages/IMG_3902.jpg" alt="BPA Celebration">
           </a>
         </td>
       </tr>
     </table>
-  </div>
-  <br>
-  <div class="righty">
-    <div class="Kellen">
-      <p>If you wish to join BPA please contact Ms. Kellen at Brenda.Kellen@marshall.k12.mn.us</p>
+
+    <!-- Contact Section -->
+    <div class="contact">
+      <p>If you wish to join BPA, please contact Ms. Kellen at <a href="mailto:Brenda.Kellen@marshall.k12.mn.us">Brenda.Kellen@marshall.k12.mn.us</a>.</p>
     </div>
-  </div>
-  <div class="last">
-    <a target="_blank" href="20230311_020304058.png">
-      <img src="BPAImages/20230311_020304058.png" alt="_" width="785" height="500">
-    </a>
   </div>
 </body>
 </html>
